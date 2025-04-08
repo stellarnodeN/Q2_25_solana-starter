@@ -32,10 +32,45 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-To install the necessary dependencies, run the following command:
+To get started with this project, follow these steps:
 
-```bash
-npm install
+    -Clone the repository:
+
+    ```git clone https://github.com/stellarnodeN/Solana-ts-NFT.git```
+
+    -Navigate to the project directory:
+
+     ```cd solana-nft```
+
+    -Install the dependencies:
+
+     ```npm install```
+
+## Usage
+
+To use this project, follow these steps:
+
+    Set up your environment variables. Create a .env file in the root directory and add your Solana and wallet details.
+
+    Run the development server:
+
+    ```npm start```
+
+    Follow the instructions in the project to create and manage your NFTs.
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+    Fork the repository.
+    Create a new branch (git checkout -b feature-branch).
+    Make your changes.
+    Commit your changes (git commit -m 'Add some feature').
+    Push to the branch (git push origin feature-branch).
+    Open a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 
