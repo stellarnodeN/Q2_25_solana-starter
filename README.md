@@ -1,4 +1,4 @@
-````markdown name=README.md
+
 # Solana Starter: SPL Token and NFT Minting with TypeScript
 
 A comprehensive starter project for minting SPL tokens and Metaplex NFTs on Solana using TypeScript.
@@ -142,6 +142,5 @@ _See each script for inline comments on configuration and further steps._
 Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request.
 
 ---
-````
 
 
